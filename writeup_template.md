@@ -76,7 +76,7 @@ Further cropping of images was used from top and bottom to include mainly the re
 ####5. Use of Generators
 I used generators as discussed in class. The generator code worked fine, however the training models went till 3 epochs. The loss continued to decrease as seen in figure 1. 
 
-
+![alt text](https://drive.google.com/file/d/0Bzfpy1TtoIjlNVF0elZRb2tRVmc/view?usp=sharing "Figure 1 MSE vs Epochs")
 
 However when I tested the same model but without generators, the val loss decreased only till epoch 1 and then started rising. So I used the first model checkpoint to run the final drive. 
 
