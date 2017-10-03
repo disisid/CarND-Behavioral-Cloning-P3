@@ -81,3 +81,9 @@ I used generators as discussed in class. The generator code worked fine, however
 However when I tested the same model but without generators, the val loss decreased only till epoch 1 and then started rising. So I used the first model checkpoint to run the final drive. 
 
 I used this training data for training the model. The validation set helped determine if the model was over or under fitting. The ideal number of epochs was 3 as evidenced by ... I used an adam optimizer so that manually training the learning rate wasn't necessary.
+
+
+Overall this was an interesting projects and I would like to turn back to this to make some changes and further tuning later when time allows. 
+
+[![FINAL OUTPUT VIDEO](http://img.youtube.com/vi/yQ90HzxyeDM/0.jpg)](https://youtu.be/yQ90HzxyeDM)
+Here is the final output. 
