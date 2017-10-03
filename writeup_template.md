@@ -85,5 +85,8 @@ I used this training data for training the model. The validation set helped dete
 
 Overall this was an interesting projects and I would like to turn back to this to make some changes and further tuning later when time allows. 
 
-[![FINAL OUTPUT VIDEO](http://img.youtube.com/vi/yQ90HzxyeDM/0.jpg)](https://youtu.be/yQ90HzxyeDM)
 Here is the final output. 
+
+
+[![FINAL OUTPUT VIDEO](http://img.youtube.com/vi/yQ90HzxyeDM/0.jpg)](https://youtu.be/yQ90HzxyeDM)
+
